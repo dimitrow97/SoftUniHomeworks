@@ -1,0 +1,9 @@
+{
+  "name": "colorful-nums",
+  "version": "0.0.0",
+  "description": "ColorfulNums",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

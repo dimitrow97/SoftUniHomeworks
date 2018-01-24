@@ -1,0 +1,9 @@
+{
+  "name": "chess-board",
+  "version": "0.0.0",
+  "description": "ChessBoard",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

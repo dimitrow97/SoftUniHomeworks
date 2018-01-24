@@ -1,0 +1,9 @@
+{
+  "name": "binary-logarithm",
+  "version": "0.0.0",
+  "description": "BinaryLogarithm",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

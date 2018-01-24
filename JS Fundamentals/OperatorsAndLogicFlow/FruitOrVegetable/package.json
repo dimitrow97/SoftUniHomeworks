@@ -1,0 +1,9 @@
+{
+  "name": "fruit-or-vegetable",
+  "version": "0.0.0",
+  "description": "FruitOrVegetable",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

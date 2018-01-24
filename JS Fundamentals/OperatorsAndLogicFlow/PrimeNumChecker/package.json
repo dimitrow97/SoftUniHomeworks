@@ -1,0 +1,9 @@
+{
+  "name": "prime-num-checker",
+  "version": "0.0.0",
+  "description": "PrimeNumChecker",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
