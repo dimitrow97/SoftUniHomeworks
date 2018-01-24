@@ -1,0 +1,9 @@
+{
+  "name": "dist-between-points",
+  "version": "0.0.0",
+  "description": "DistBetweenPoints",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "filte-by-age",
+  "version": "0.0.0",
+  "description": "FilteByAge",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
