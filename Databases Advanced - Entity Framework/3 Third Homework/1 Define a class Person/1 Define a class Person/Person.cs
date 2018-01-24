@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _1_Define_a_class_Person
+{
+    class Person
+    {
+        private string name;
+        private int age;
+
+        public string Name
+        {
+            get
+            {
+                return this.name;
+            }
+            set
+            {
+                if(String.IsNullOrEmpty(value))
+                {
+                    throw new ArgumentException("Invalid name!");
+                }
+                this.name = value;
+            }
+        }
+
+        public int Age
+        {
+            get
+            {
+                return this.age;
+            }
+            set
+            {
+                if(value <= 0)
+                {
+                    throw new ArgumentException("Invalid age!");
+                }
+                this.age = value;
+            }
+        }
+    }
+}
