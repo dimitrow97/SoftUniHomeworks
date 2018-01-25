@@ -1,0 +1,9 @@
+{
+  "name": "figure-of4-squares",
+  "version": "0.0.0",
+  "description": "FigureOf4Squares",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

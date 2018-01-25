@@ -1,0 +1,9 @@
+{
+  "name": "quadratic-equation",
+  "version": "0.0.0",
+  "description": "QuadraticEquation",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "now-playing",
+  "version": "0.0.0",
+  "description": "NowPlaying",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "assign-prop",
+  "version": "0.0.0",
+  "description": "AssignProp",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "last-month",
+  "version": "0.0.0",
+  "description": "LastMonth",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "rounding",
+  "version": "0.0.0",
+  "description": "Rounding",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

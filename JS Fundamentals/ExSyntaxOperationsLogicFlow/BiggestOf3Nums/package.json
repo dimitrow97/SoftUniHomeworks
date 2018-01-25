@@ -1,0 +1,9 @@
+{
+  "name": "biggest-of3-nums",
+  "version": "0.0.0",
+  "description": "BiggestOf3Nums",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

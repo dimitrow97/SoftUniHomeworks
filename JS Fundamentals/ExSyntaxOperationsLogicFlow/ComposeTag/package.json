@@ -1,0 +1,9 @@
+{
+  "name": "compose-tag",
+  "version": "0.0.0",
+  "description": "ComposeTag",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "triangle-of-dollars",
+  "version": "0.0.0",
+  "description": "TriangleOfDollars",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

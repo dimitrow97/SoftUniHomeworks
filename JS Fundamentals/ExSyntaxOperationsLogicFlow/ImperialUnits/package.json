@@ -1,0 +1,9 @@
+{
+  "name": "imperial-units",
+  "version": "0.0.0",
+  "description": "ImperialUnits",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

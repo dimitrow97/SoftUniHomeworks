@@ -1,0 +1,9 @@
+{
+  "name": "distance-in3-d",
+  "version": "0.0.0",
+  "description": "DistanceIn3D",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

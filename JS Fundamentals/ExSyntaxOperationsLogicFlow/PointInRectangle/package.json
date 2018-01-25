@@ -1,0 +1,9 @@
+{
+  "name": "point-in-rectangle",
+  "version": "0.0.0",
+  "description": "PointInRectangle",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "monthly-calendar",
+  "version": "0.0.0",
+  "description": "MonthlyCalendar",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "compound-interest",
+  "version": "0.0.0",
+  "description": "CompoundInterest",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

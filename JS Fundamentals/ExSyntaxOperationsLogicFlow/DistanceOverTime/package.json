@@ -1,0 +1,9 @@
+{
+  "name": "distance-over-time",
+  "version": "0.0.0",
+  "description": "DistanceOverTime",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

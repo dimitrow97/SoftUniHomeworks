@@ -1,0 +1,9 @@
+{
+  "name": "hello-js",
+  "version": "0.0.0",
+  "description": "HelloJS",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

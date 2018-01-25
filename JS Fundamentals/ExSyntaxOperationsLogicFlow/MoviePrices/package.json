@@ -1,0 +1,9 @@
+{
+  "name": "movie-prices",
+  "version": "0.0.0",
+  "description": "MoviePrices",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

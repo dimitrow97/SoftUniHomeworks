@@ -1,0 +1,9 @@
+{
+  "name": "area-and-perimeter",
+  "version": "0.0.0",
+  "description": "AreaAndPerimeter",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
