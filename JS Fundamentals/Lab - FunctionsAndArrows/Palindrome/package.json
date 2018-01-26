@@ -1,0 +1,9 @@
+{
+  "name": "palindrome",
+  "version": "0.0.0",
+  "description": "Palindrome",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

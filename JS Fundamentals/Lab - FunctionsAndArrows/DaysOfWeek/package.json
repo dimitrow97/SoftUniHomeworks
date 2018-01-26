@@ -1,0 +1,9 @@
+{
+  "name": "days-of-week",
+  "version": "0.0.0",
+  "description": "DaysOfWeek",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

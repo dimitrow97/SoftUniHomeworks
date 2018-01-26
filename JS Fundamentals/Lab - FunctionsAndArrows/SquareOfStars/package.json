@@ -1,0 +1,9 @@
+{
+  "name": "square-of-stars",
+  "version": "0.0.0",
+  "description": "SquareOfStars",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

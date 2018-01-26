@@ -1,0 +1,9 @@
+{
+  "name": "words-uppercase",
+  "version": "0.0.0",
+  "description": "WordsUppercase",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

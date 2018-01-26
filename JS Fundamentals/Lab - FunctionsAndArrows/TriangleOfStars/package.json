@@ -1,0 +1,9 @@
+{
+  "name": "triangle-of-stars",
+  "version": "0.0.0",
+  "description": "TriangleOfStars",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

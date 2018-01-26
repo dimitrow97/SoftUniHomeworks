@@ -1,0 +1,9 @@
+{
+  "name": "functional-claculator",
+  "version": "0.0.0",
+  "description": "FunctionalClaculator",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

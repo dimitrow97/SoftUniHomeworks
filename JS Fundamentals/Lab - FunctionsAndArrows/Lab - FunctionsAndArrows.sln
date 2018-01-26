@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TriangleOfStars", "TriangleOfStars\TriangleOfStars.njsproj", "{A6E1FF79-C4BD-4D38-B297-B9A3B369A045}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SquareOfStars", "SquareOfStars\SquareOfStars.njsproj", "{4A28B63E-A1E8-4F17-9078-5D25CF804ED9}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Palindrome", "Palindrome\Palindrome.njsproj", "{51529AEF-62BF-4C6F-A2AA-F29E9B776470}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DaysOfWeek", "DaysOfWeek\DaysOfWeek.njsproj", "{26CB3E84-1BB5-45E6-AABD-FDD11CAD0D2A}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FunctionalClaculator", "FunctionalClaculator\FunctionalClaculator.njsproj", "{EDC2E753-F34A-4885-95C0-05295A362BA5}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "AggregateElements", "AggregateElements\AggregateElements.njsproj", "{87A1F8C4-F7A7-4FBA-B676-EC7158DAEE20}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WordsUppercase", "WordsUppercase\WordsUppercase.njsproj", "{A3D3A4FD-9EDF-4F91-BBF5-00F73D4C85E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E1FF79-C4BD-4D38-B297-B9A3B369A045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E1FF79-C4BD-4D38-B297-B9A3B369A045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E1FF79-C4BD-4D38-B297-B9A3B369A045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E1FF79-C4BD-4D38-B297-B9A3B369A045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A28B63E-A1E8-4F17-9078-5D25CF804ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A28B63E-A1E8-4F17-9078-5D25CF804ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A28B63E-A1E8-4F17-9078-5D25CF804ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A28B63E-A1E8-4F17-9078-5D25CF804ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51529AEF-62BF-4C6F-A2AA-F29E9B776470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51529AEF-62BF-4C6F-A2AA-F29E9B776470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51529AEF-62BF-4C6F-A2AA-F29E9B776470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51529AEF-62BF-4C6F-A2AA-F29E9B776470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26CB3E84-1BB5-45E6-AABD-FDD11CAD0D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CB3E84-1BB5-45E6-AABD-FDD11CAD0D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CB3E84-1BB5-45E6-AABD-FDD11CAD0D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CB3E84-1BB5-45E6-AABD-FDD11CAD0D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC2E753-F34A-4885-95C0-05295A362BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC2E753-F34A-4885-95C0-05295A362BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC2E753-F34A-4885-95C0-05295A362BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC2E753-F34A-4885-95C0-05295A362BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A1F8C4-F7A7-4FBA-B676-EC7158DAEE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A1F8C4-F7A7-4FBA-B676-EC7158DAEE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A1F8C4-F7A7-4FBA-B676-EC7158DAEE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A1F8C4-F7A7-4FBA-B676-EC7158DAEE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D3A4FD-9EDF-4F91-BBF5-00F73D4C85E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D3A4FD-9EDF-4F91-BBF5-00F73D4C85E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D3A4FD-9EDF-4F91-BBF5-00F73D4C85E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D3A4FD-9EDF-4F91-BBF5-00F73D4C85E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC09209-6995-4A6C-9EB2-FBA4FCC2210B}
+	EndGlobalSection
+EndGlobal
