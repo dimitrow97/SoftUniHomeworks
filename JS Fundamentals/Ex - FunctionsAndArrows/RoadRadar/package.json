@@ -1,0 +1,9 @@
+{
+  "name": "road-radar",
+  "version": "0.0.0",
+  "description": "RoadRadar",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "trip-length",
+  "version": "0.0.0",
+  "description": "TripLength",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

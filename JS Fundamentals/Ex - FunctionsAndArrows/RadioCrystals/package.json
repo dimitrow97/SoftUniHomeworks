@@ -1,0 +1,9 @@
+{
+  "name": "radio-crystals",
+  "version": "0.0.0",
+  "description": "RadioCrystals",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
