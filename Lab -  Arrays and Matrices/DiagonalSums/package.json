@@ -1,9 +1,0 @@
-{
-  "name": "diagonal-sums",
-  "version": "0.0.0",
-  "description": "DiagonalSums",
-  "main": "app.js",
-  "author": {
-    "name": "dimit"
-  }
-}

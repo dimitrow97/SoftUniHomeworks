@@ -1,9 +1,0 @@
-{
-  "name": "negative-positive-numbers",
-  "version": "0.0.0",
-  "description": "NegativePositiveNumbers",
-  "main": "app.js",
-  "author": {
-    "name": "dimit"
-  }
-}

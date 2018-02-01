@@ -1,9 +1,0 @@
-{
-  "name": "smallest-two-numbers",
-  "version": "0.0.0",
-  "description": "SmallestTwoNumbers",
-  "main": "app.js",
-  "author": {
-    "name": "dimit"
-  }
-}

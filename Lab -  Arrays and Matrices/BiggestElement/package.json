@@ -1,9 +1,0 @@
-{
-  "name": "biggest-element",
-  "version": "0.0.0",
-  "description": "BiggestElement",
-  "main": "app.js",
-  "author": {
-    "name": "dimit"
-  }
-}

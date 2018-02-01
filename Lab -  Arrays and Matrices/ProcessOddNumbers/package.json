@@ -1,9 +1,0 @@
-{
-  "name": "process-odd-numbers",
-  "version": "0.0.0",
-  "description": "ProcessOddNumbers",
-  "main": "app.js",
-  "author": {
-    "name": "dimit"
-  }
-}

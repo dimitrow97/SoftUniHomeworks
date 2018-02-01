@@ -1,9 +1,0 @@
-{
-  "name": "even-position-elements",
-  "version": "0.0.0",
-  "description": "EvenPositionElements",
-  "main": "app.js",
-  "author": {
-    "name": "dimit"
-  }
-}

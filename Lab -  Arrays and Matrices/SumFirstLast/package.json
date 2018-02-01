@@ -1,9 +1,0 @@
-{
-  "name": "sum-first-last",
-  "version": "0.0.0",
-  "description": "SumFirstLast",
-  "main": "app.js",
-  "author": {
-    "name": "dimit"
-  }
-}

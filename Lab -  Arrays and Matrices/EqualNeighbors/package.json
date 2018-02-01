@@ -1,9 +1,0 @@
-{
-  "name": "equal-neighbors",
-  "version": "0.0.0",
-  "description": "EqualNeighbors",
-  "main": "app.js",
-  "author": {
-    "name": "dimit"
-  }
-}
