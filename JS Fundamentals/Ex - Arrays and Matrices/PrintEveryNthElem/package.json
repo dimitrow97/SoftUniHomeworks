@@ -1,0 +1,9 @@
+{
+  "name": "print-every-nth-elem",
+  "version": "0.0.0",
+  "description": "PrintEveryNthElem",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "diagonal-attack",
+  "version": "0.0.0",
+  "description": "DiagonalAttack",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

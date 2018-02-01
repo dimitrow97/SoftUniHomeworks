@@ -1,0 +1,9 @@
+{
+  "name": "print-array-with-given-delim",
+  "version": "0.0.0",
+  "description": "PrintArrayWithGivenDelim",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

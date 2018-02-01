@@ -1,0 +1,9 @@
+{
+  "name": "add-remove-elements",
+  "version": "0.0.0",
+  "description": "AddRemoveElements",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sort-array-by2-criteria",
+  "version": "0.0.0",
+  "description": "SortArrayBy2Criteria",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
