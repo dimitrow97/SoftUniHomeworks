@@ -1,0 +1,9 @@
+{
+  "name": "last-knumbers-sequence",
+  "version": "0.0.0",
+  "description": "LastKNumbersSequence",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
