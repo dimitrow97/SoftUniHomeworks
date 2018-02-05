@@ -1,0 +1,9 @@
+{
+  "name": "censorship",
+  "version": "0.0.0",
+  "description": "Censorship",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

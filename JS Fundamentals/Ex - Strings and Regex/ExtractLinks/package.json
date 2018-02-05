@@ -1,0 +1,9 @@
+{
+  "name": "extract-links",
+  "version": "0.0.0",
+  "description": "ExtractLinks",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

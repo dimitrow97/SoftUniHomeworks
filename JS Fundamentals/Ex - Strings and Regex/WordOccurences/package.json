@@ -1,0 +1,9 @@
+{
+  "name": "word-occurences",
+  "version": "0.0.0",
+  "description": "WordOccurences",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

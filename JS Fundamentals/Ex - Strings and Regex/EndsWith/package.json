@@ -1,0 +1,9 @@
+{
+  "name": "ends-with",
+  "version": "0.0.0",
+  "description": "EndsWith",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

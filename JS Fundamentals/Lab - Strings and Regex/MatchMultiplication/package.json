@@ -1,0 +1,9 @@
+{
+  "name": "match-multiplication",
+  "version": "0.0.0",
+  "description": "MatchMultiplication",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "restaurant-bill",
+  "version": "0.0.0",
+  "description": "RestaurantBill",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "starts-with",
+  "version": "0.0.0",
+  "description": "StartsWith",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

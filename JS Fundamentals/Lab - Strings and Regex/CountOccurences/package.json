@@ -1,0 +1,9 @@
+{
+  "name": "count-occurences",
+  "version": "0.0.0",
+  "description": "CountOccurences",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

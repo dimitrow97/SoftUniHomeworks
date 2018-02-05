@@ -1,0 +1,9 @@
+{
+  "name": "match-all-words",
+  "version": "0.0.0",
+  "description": "MatchAllWords",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "escaping",
+  "version": "0.0.0",
+  "description": "Escaping",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "employee-data",
+  "version": "0.0.0",
+  "description": "EmployeeData",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

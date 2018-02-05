@@ -1,0 +1,9 @@
+{
+  "name": "concatenate-reversed",
+  "version": "0.0.0",
+  "description": "ConcatenateReversed",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

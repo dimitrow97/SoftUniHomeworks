@@ -1,0 +1,9 @@
+{
+  "name": "split-string-with-delim",
+  "version": "0.0.0",
+  "description": "SplitStringWithDelim",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

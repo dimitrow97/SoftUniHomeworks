@@ -1,0 +1,9 @@
+{
+  "name": "aggregate-table",
+  "version": "0.0.0",
+  "description": "AggregateTable",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

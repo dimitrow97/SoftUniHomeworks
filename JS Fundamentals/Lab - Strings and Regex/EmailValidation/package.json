@@ -1,0 +1,9 @@
+{
+  "name": "email-validation",
+  "version": "0.0.0",
+  "description": "EmailValidation",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "expresion-split",
+  "version": "0.0.0",
+  "description": "ExpresionSplit",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

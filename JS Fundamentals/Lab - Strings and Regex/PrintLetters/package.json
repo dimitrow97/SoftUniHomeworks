@@ -1,0 +1,9 @@
+{
+  "name": "print-letters",
+  "version": "0.0.0",
+  "description": "PrintLetters",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

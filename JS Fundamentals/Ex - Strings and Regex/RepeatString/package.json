@@ -1,0 +1,9 @@
+{
+  "name": "repeat-string",
+  "version": "0.0.0",
+  "description": "RepeatString",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

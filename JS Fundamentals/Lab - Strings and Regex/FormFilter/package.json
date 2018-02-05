@@ -1,0 +1,9 @@
+{
+  "name": "form-filter",
+  "version": "0.0.0",
+  "description": "FormFilter",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

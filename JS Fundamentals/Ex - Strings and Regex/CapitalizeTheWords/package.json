@@ -1,0 +1,9 @@
+{
+  "name": "capitalize-the-words",
+  "version": "0.0.0",
+  "description": "CapitalizeTheWords",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

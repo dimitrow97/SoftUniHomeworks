@@ -1,0 +1,9 @@
+{
+  "name": "secret-data",
+  "version": "0.0.0",
+  "description": "SecretData",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
