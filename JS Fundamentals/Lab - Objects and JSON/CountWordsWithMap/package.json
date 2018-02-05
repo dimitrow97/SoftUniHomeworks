@@ -1,0 +1,9 @@
+{
+  "name": "count-words-with-map",
+  "version": "0.0.0",
+  "description": "CountWordsWithMap",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

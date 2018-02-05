@@ -1,0 +1,9 @@
+{
+  "name": "score-to-html",
+  "version": "0.0.0",
+  "description": "ScoreToHTML",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "from-jsonto-html",
+  "version": "0.0.0",
+  "description": "FromJSONToHTML",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

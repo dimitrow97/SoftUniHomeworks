@@ -1,0 +1,9 @@
+{
+  "name": "count-words-in-text",
+  "version": "0.0.0",
+  "description": "CountWordsInText",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

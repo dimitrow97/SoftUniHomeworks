@@ -1,0 +1,9 @@
+{
+  "name": "towns-to-json",
+  "version": "0.0.0",
+  "description": "TownsToJSON",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

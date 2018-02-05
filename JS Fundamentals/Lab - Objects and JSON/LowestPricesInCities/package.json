@@ -1,0 +1,9 @@
+{
+  "name": "lowest-prices-in-cities",
+  "version": "0.0.0",
+  "description": "LowestPricesInCities",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

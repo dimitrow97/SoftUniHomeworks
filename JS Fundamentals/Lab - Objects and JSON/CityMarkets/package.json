@@ -1,0 +1,9 @@
+{
+  "name": "city-markets",
+  "version": "0.0.0",
+  "description": "CityMarkets",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sum-by-town",
+  "version": "0.0.0",
+  "description": "SumByTown",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

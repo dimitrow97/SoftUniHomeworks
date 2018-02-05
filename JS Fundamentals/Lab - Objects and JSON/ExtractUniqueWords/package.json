@@ -1,0 +1,9 @@
+{
+  "name": "extract-unique-words",
+  "version": "0.0.0",
+  "description": "ExtractUniqueWords",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
