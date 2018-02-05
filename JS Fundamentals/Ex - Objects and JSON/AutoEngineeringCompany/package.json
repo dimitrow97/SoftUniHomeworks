@@ -1,0 +1,9 @@
+{
+  "name": "auto-engineering-company",
+  "version": "0.0.0",
+  "description": "AutoEngineeringCompany",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

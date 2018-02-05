@@ -1,0 +1,9 @@
+{
+  "name": "system-components",
+  "version": "0.0.0",
+  "description": "SystemComponents",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

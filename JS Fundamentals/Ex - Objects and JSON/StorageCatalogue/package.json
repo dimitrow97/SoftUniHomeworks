@@ -1,0 +1,9 @@
+{
+  "name": "storage-catalogue",
+  "version": "0.0.0",
+  "description": "StorageCatalogue",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

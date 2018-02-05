@@ -1,0 +1,9 @@
+{
+  "name": "cappy-juice",
+  "version": "0.0.0",
+  "description": "CappyJuice",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

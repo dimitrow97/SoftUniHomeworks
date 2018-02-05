@@ -1,0 +1,9 @@
+{
+  "name": "usernames",
+  "version": "0.0.0",
+  "description": "Usernames",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
