@@ -1,0 +1,9 @@
+{
+  "name": "xml-messenger",
+  "version": "0.0.0",
+  "description": "XML Messenger",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

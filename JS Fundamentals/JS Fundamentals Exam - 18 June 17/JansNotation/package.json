@@ -1,0 +1,9 @@
+{
+  "name": "jans-notation",
+  "version": "0.0.0",
+  "description": "JansNotation",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

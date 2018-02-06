@@ -1,0 +1,9 @@
+{
+  "name": "king-djosers-pyramid",
+  "version": "0.0.0",
+  "description": "KingDjosersPyramid",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
