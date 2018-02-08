@@ -1,0 +1,9 @@
+{
+  "name": "wall-build",
+  "version": "0.0.0",
+  "description": "WallBuild",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

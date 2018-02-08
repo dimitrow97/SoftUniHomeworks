@@ -1,0 +1,9 @@
+{
+  "name": "format-helper",
+  "version": "0.0.0",
+  "description": "FormatHelper",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
