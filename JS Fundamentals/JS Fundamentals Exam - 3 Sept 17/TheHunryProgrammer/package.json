@@ -1,0 +1,9 @@
+{
+  "name": "the-hunry-programmer",
+  "version": "0.0.0",
+  "description": "TheHunryProgrammer",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

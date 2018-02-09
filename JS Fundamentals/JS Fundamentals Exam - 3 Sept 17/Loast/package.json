@@ -1,0 +1,9 @@
+{
+  "name": "loast",
+  "version": "0.0.0",
+  "description": "Loast",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}

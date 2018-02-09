@@ -1,0 +1,9 @@
+{
+  "name": "rest-house",
+  "version": "0.0.0",
+  "description": "RestHouse",
+  "main": "app.js",
+  "author": {
+    "name": "dimit"
+  }
+}
